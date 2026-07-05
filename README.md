@@ -103,6 +103,3 @@ Knockout draws are resolved via a simulated penalty shootout (modeled as a 50/50
 
 Python, pandas, NumPy, SciPy (`optimize`, `stats`)
 
-## Author
-
-Dominic Mwasya
