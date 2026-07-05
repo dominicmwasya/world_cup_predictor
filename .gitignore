@@ -16,3 +16,7 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+
+# Data files
+# (previously excluded — now tracked intentionally in /datasets)
